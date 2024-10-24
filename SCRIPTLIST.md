@@ -21,7 +21,7 @@
 
 ## Message Bomber
 - **Description:** A script for bombing your friends with custom messages.
-- **Version:** 5.5
+- **Version:** 5.6
 - **Author:** Suryadip Sarkar
 
 [Download Script](https://raw.githubusercontent.com/SE-Extended/Scripts/main/Scripts/message_bomber.js)
